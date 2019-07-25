@@ -1,0 +1,12 @@
+body{
+    background: #fafafa;
+    color: #2d2d2d;
+    font-size: 16px;
+}
+
+.wrapper{
+    width: 90%;
+    height: 90%;
+    margin: 2rem;
+    background: #fff;
+}
